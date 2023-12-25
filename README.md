@@ -15,7 +15,7 @@
 ## Security Concerns
 
 Using third-party scripts means you trust that the script’s developer hasn’t inserted malicious functionality into the code and has secured it against attackers trying to do the same. You should never run code you don't trust.
-
+PS: If you get banned from chat, thats you're own fault 
 ----
 <!-- Extensions -->
   [chrome_violentmonkey]: https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag
@@ -31,3 +31,4 @@ Using third-party scripts means you trust that the script’s developer hasn’t
   [greasyfork_url]: <https://greasyfork.org/en/scripts/483097-chat-message-sender-duhh> "Get from GreasyFork"
 
   [greasyfork_icon]: https://user-images.githubusercontent.com/3372598/166113712-1bc3d654-1342-4f1e-9845-21c3b21524b1.png
+
