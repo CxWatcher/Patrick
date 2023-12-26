@@ -1,4 +1,4 @@
-# Patrick - Simple chatter
+# Patrick - Patrick
 
 1. First you need a Browser Extension for managing UserScripts (skip if you already have one):  
    * Chrome: [Violentmonkey][chrome_violentmonkey] or [Tampermonkey][chrome_tampermonkey]
